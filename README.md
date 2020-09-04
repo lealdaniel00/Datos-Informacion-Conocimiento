@@ -7,9 +7,19 @@ Integrante:
 <ol>
 <li>Daniel David Leal Lara - 20202495012</li>
 </ol>
-# Instalación y despliegue en Linux
+# Instalación y Despliegue
+El presente código fue creado usando Jupyter Notebook, por lo tanto, para su despliegue y visualización de manera local, dependiendo del Sistema Operativo en el cual se encuentre, se recomienda que siga las instrucciones dadas en https://jupyter.org/install
 
 # Resultado de la aplicación
+Creacion de los datos que conforman la información de las personas
 <p align="center">
-  <img src="../master/prueba/data/Imagen resultado.png">
+  <img src="../master/images/Imagen resultado1.png">
+</p>
+Vista de la información
+<p align="center">
+  <img src="../master/images/Imagen resultado2.png">
+</p>
+Análisis grafico que ayuda al conocimiento y toma de decisiones de las personas
+<p align="center">
+  <img src="../master/images/Imagen resultado3.png">
 </p>
