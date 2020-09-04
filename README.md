@@ -7,8 +7,8 @@ Integrante:
 <ol>
 <li>Daniel David Leal Lara - 20202495012</li>
 </ol>
-# Instalación y Despliegue
 
+# Instalación y Despliegue
 El presente código fue creado usando Jupyter Notebook, por lo tanto, para su despliegue y visualización de manera local, dependiendo del Sistema Operativo en el cual se encuentre, se recomienda que siga las instrucciones dadas en https://jupyter.org/install
 
 # Resultado de la aplicación
