@@ -1,4 +1,4 @@
-# Relaciones de la informática con otras disciplinas
+# Ejemplo de representación de Información y Conocimiento
 # Maestría en ciencias de la Información y las Comunicaciones
 
 Informática Gr:195-2 <br>
@@ -8,6 +8,7 @@ Integrante:
 <li>Daniel David Leal Lara - 20202495012</li>
 </ol>
 # Instalación y Despliegue
+
 El presente código fue creado usando Jupyter Notebook, por lo tanto, para su despliegue y visualización de manera local, dependiendo del Sistema Operativo en el cual se encuentre, se recomienda que siga las instrucciones dadas en https://jupyter.org/install
 
 # Resultado de la aplicación
